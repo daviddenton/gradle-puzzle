@@ -1,0 +1,5 @@
+src/docs/**
+tools/**
+.idea/**
+gradle/**
+http4k-multipart/src/main/java/org/apache/**
