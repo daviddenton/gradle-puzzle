@@ -1,7 +1,5 @@
 @file:Suppress("UnstableApiUsage")
 
-rootProject.name = "http4k"
-
 pluginManagement {
     includeBuild("gradle/scripts")
 }
